@@ -67,7 +67,7 @@ const WeatherApp = () => {
                 </Box>
 
                 {loading && (
-                    <p``>
+                    <p>
                         Loading data...
                     </p>
                 )}
